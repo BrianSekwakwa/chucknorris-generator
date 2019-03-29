@@ -1,0 +1,10 @@
+{
+  "name": "chucknorris-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Brian Sekwakwa <briansenpai14@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
